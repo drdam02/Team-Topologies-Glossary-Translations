@@ -17,7 +17,7 @@
 | fracture plane                          | breukvlak                        |               |
 | germane cognitive load                  | relevante cognitieve belasting   |               |
 | intrinsic cognitive load                | intrinsieke cognitieve belasting |               |
-| joined-at-the-database monolith         | databaase-gebonden-monoliet      |               |
+| joined-at-the-database monolith         | database-gebonden-monoliet       |               |
 | monolithic build                        | monolitische opbouw              |               |
 | monolithic model                        | monolitisch model                |               |
 | monolithic release                      | monolitische versie              |               |
