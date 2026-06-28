@@ -1,4 +1,4 @@
-| Term in English                         | Term in French                 | Usage Example |
+| Term in English                         | Term in Dutch                  | Usage Example |
 | --------------------------------------- | ------------------------------ | ------------- |
 | API (application programming interface) | API (toepassingsinterface)     |               |
 | application monolith                    | monolitische applicatie        |               |
